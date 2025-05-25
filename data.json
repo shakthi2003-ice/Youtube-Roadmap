@@ -1,0 +1,59 @@
+{
+  "data": {
+    "Chapter 1: Introduction to Programming": {
+      "Variables and Data Types": [
+        {
+          "QUESTION NAME": "What are variables in programming?",
+          "SOLVE": "yes",
+          "ANSWER KEY": "Variables are used to store data values in a program.",
+          "VIDEO": "https://example.com/variables-video",
+          "DIFFICULTY LEVEL": "Easy"
+        },
+        {
+          "QUESTION NAME": "Explain data types with examples.",
+          "TO SOLVE": "no",
+          "ANSWER KEY": "Data types specify the type of data a variable can hold. Examples: int, float, char, string.",
+          "VIDEO": "https://example.com/datatypes-video",
+          "DIFFICULTY LEVEL": "Medium",
+          "MARKS AS DONE": "yes",
+          "SHORT NOTES TO WRITE": "Primitive vs non-primitive types, examples"
+        }
+      ],
+      "Control Structures": [
+        {
+          "QUESTION NAME": "What is a loop? Explain types of loops.",
+          "TO SOLVE": "yes",
+          "ANSWER KEY": "Loops allow repeated execution of a block of code. Types: for, while, do-while.",
+          "VIDEO": "https://example.com/loops-video",
+          "DIFFICULTY LEVEL": "Medium",
+          "MARKS AS DONE": "no",
+          "SHORT NOTES TO WRITE": "Syntax of loops, use-cases"
+        }
+      ]
+    },
+    "Chapter 2: Object-Oriented Programming": {
+      "Classes and Objects": [
+        {
+          "QUESTION NAME": "Define class and object with example.",
+          "TO SOLVE": "yes",
+          "ANSWER KEY": "Class is a blueprint, object is an instance of a class.",
+          "VIDEO": "https://example.com/class-object-video",
+          "DIFFICULTY LEVEL": "Easy",
+          "MARKS AS DONE": "no",
+          "SHORT NOTES TO WRITE": "Definition, syntax, examples"
+        }
+      ],
+      "Inheritance": [
+        {
+          "QUESTION NAME": "What is inheritance in OOP?",
+          "TO SOLVE": "yes",
+          "ANSWER KEY": "Inheritance is a mechanism where one class acquires properties of another.",
+          "VIDEO": "https://example.com/inheritance-video",
+          "DIFFICULTY LEVEL": "Hard",
+          "MARKS AS DONE": "no",
+          "SHORT NOTES TO WRITE": "Types of inheritance, real-world examples"
+        }
+      ]
+    }
+  }
+}
